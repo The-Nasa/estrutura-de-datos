@@ -9,6 +9,8 @@ Este proyecto ha evolucionado desde un simple formulario de inicio de sesión ha
 
 ### Pantalla de Inicio de Sesión
 ![image](https://github.com/user-attachments/assets/a26bb454-bbf8-444e-aeb2-28cf58789bf1)
+### Pantalla de la pagina
+![image](https://github.com/user-attachments/assets/6940670b-2f22-4504-8f56-9aa4a2155ed3)
 
 ## 🌟 Características
 
